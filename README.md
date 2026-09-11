@@ -432,13 +432,10 @@ This project is free to use and modify for learning and personal projects.
 
 > **Turn any video into a terminal-style ASCII animation using Python.**
 
-```text
-████████████████████████████████
-██                            ██
-██       ASCII VIDEO          ██
-██                            ██
-████████████████████████████████
-```
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c62be448-0d32-42c8-bf59-f52ecc813909" />
+
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/db5a55a1-407e-45e8-8d7c-1088a79a9604" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/56312d36-8a76-4d56-81da-83edf77d3e24" />
+
+
 
 Made with 🐍 Python + OpenCV.
