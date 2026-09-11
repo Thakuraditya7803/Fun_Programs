@@ -150,7 +150,7 @@ ASCII = "█▓▒░ "
 WIDTH = 120
 ```
 
-This controls the width of the ASCII video.
+This controls the width of the ASCII video. (isse screen ka size change hoga ismai change krna )
 
 Smaller value:
 
