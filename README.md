@@ -331,7 +331,7 @@ Check your video path.
 Example:
 
 ```python
-VIDEO_PATH = r"E:\omnicode\video.mp4"
+VIDEO_PATH = "File ka path can be in MP4,HTML or Txt"
 ```
 
 Make sure the file actually exists.
