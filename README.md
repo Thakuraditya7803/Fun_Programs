@@ -439,5 +439,6 @@ This project is free to use and modify for learning and personal projects.
 ██                            ██
 ████████████████████████████████
 ```
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c62be448-0d32-42c8-bf59-f52ecc813909" />
 
 Made with 🐍 Python + OpenCV.
